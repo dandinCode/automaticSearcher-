@@ -1,0 +1,19 @@
+{
+  "name": "automaticSearcher ",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "open": "^10.1.0",
+    "puppeteer": "^23.5.3",
+    "random-words": "^2.0.1"
+  }
+}
