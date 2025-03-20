@@ -13,3 +13,6 @@ Rode o comando `npm install` para instalar as dependências do projeto.
 
 ### Passo 2:
 Rode o comando `npm start` para iniciar o sistema.
+
+### passo 3:
+Ao rodar pela primeira vez o programa irá perguntar o horário que você deseja que ele execute as perguntas diariamente, digite no formato HH:MM (por exemplo: 08:30).
